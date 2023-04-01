@@ -1,0 +1,17 @@
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.csproj.AssemblyReference.cache
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.AssemblyInfoInputs.cache
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.AssemblyInfo.cs
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.csproj.CoreCompileInputs.cache
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\bin\Debug\net6.0\random-upload-youtube-console.exe
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\bin\Debug\net6.0\random-upload-youtube-console.deps.json
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\bin\Debug\net6.0\random-upload-youtube-console.runtimeconfig.json
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\bin\Debug\net6.0\random-upload-youtube-console.dll
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\bin\Debug\net6.0\random-upload-youtube-console.pdb
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.dll
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\refint\random-upload-youtube-console.dll
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.pdb
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.genruntimeconfig.cache
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\ref\random-upload-youtube-console.dll
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\DEV_HG_MEDIA\C_Sharp\random-upload-youtube-console\random-upload-youtube-console\obj\Debug\net6.0\random-upload-youtube-console.csproj.CopyComplete

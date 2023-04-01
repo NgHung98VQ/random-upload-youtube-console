@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fMJS9s7XJXMgU/AKNM3KF5SEf2CruOfyScIuJlxnoDZjmsSGxJD2SfFXcmnLqrjv9UywberTK2Gwv9fQFbZ2Ag==",
+  "success": true,
+  "projectFilePath": "D:\\DEV_HG_MEDIA\\C_Sharp\\random-upload-youtube-console\\random-upload-youtube-console\\random-upload-youtube-console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HungIT\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\HungIT\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\HungIT\\.nuget\\packages\\selenium.webdriver\\4.8.2\\selenium.webdriver.4.8.2.nupkg.sha512",
+    "C:\\Users\\HungIT\\.nuget\\packages\\textcopy\\6.2.1\\textcopy.6.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
